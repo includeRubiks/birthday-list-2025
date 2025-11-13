@@ -5,10 +5,10 @@ interface ListItemProps{
 
 function ListItem(props: ListItemProps){
     return(
-        <>
+        <li>
             <h3>{props.name}</h3>
-            <a href={props.url}>Website</a>
-        </>
+            <a target="_blank" href={props.url}>Website</a>
+        </li>
     )
 }
 
