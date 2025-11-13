@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "npm run commit && gh-pages -d dist",
+    "deploy": "gh-pages -d dist",
     "commit": "git add . && git commit -m 'Automated commit' && git push -u origin main"
   },
   "dependencies": {
