@@ -13,6 +13,7 @@ function App() {
         <ListItem name="Thing so my printer can print multicolor!" url="https://www.microcenter.com/product/685299/bambu-lab-ams-lite"/>
         <ListItem name="Tiny computer!" url="https://www.digikey.com/en/products/detail/m5stack-technology-co-ltd/K132-V11/26267927"/>
         <ListItem name="Cute synthesizer music thingy" url="https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/107990333/26834485"/>
+        <ListItem name="Switches for my mechanical keyboard" url="https://www.microcenter.com/product/649443/glorious-kailh-mechanical-keyboard-switches-(120-piece)"/>
         <ListItem name="Ham Radio" url="https://www.dxengineering.com/parts/ysu-ft-891"/>
         <ListItem name="Another printer (I guess...)" url="https://www.amazon.com/Comgrow-Creality-Ender-Aluminum-220x220x250mm/dp/B07BR3F9N6"/>      
       </ol>
