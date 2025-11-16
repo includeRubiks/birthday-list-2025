@@ -15,6 +15,7 @@ function App() {
         <ListItem name="Tiny computer!" url="https://www.digikey.com/en/products/detail/m5stack-technology-co-ltd/K132-V11/26267927"/>
         <ListItem name="Cute synthesizer music thingy" url="https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/107990333/26834485"/>
         <ListItem name="Switches for my mechanical keyboard" url="https://www.microcenter.com/product/649443/glorious-kailh-mechanical-keyboard-switches-(120-piece)"/>
+        <ListItem name="Filament dehydrator so my prints don't suck" url="https://www.amazon.com/eSUN-Upgraded-Printing-Filaments-Dehydrating/dp/B0969L64TT/ref=sr_1_1?dib=eyJ2IjoiMSJ9.pODeeBdJ7M_Z6lIkJ-cleAXDLmHTFGqECyMCfzWn392fOxdSPH3iwxrgrLQvZ0He_s3MDkoTgey6BhwPSUqx-RbJEgj_lbpYDCThvfLmCLF4EVBhj5tJ4vN16IxN0REI1-Lpu61nG1PHT5XG4NgNt75FBdgB6mk_M_M86h7BmnwQgKnRd9uVm9YkBZlRJhXE8DmPLeNlQOdLURXVDF0TGZqmBBDpB6eW6h_OGI3OZcI.Lh__K-cNFzxVZeJbn8MAN8ZsAtv5-n_Iu4m-xp2rOFk&dib_tag=se&keywords=eSUN+eBox+3D+Printer+Filament+Dryer+Box%2C+Filament+Dryer+Storage+Enclosure%2C+eSUN+Filament+Dehydrator+Dry+Box+Keep+Filament+Dry+During+Printing+Filament+Holder+for+1.75mm+3.00mm+SUNLU+PLA+PLA%2B+ABS&qid=1763298859&sr=8-1"/>
         <ListItem name="Ham Radio" url="https://www.dxengineering.com/parts/ysu-ft-891"/>
         <ListItem name="Another printer (I guess...)" url="https://www.amazon.com/Comgrow-Creality-Ender-Aluminum-220x220x250mm/dp/B07BR3F9N6"/>      
       </ol>
